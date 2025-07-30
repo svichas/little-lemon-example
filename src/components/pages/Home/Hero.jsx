@@ -10,17 +10,17 @@ const Hero = () => {
           <h1>Little Lemon</h1>
           <h2>Chicago</h2>
           <p>
-            We are a family owned Mediterranean restaurant, focused on
-            traditional recipes served with a modern twist.
+            As a family-run Mediterranean eatery, we specialize in classic recipes 
+            brought to life with a contemporary flair.
           </p>
           <HashLink className="button-primary" to="/reservations">
-            Reserve a table
+            Book your table
           </HashLink>
         </div>
         <img
           className="hero-image"
           src={restaurantFoodImage}
-          alt="Restaurant food"
+          alt="Delicious Mediterranean cuisine"
         />
       </div>
     </section>
