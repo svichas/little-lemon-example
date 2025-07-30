@@ -4,7 +4,6 @@ import { HashLink } from "react-router-hash-link";
 import "./footer.scss";
 import logoWhiteImage from "./assets/logo-white.png";
 
-
 // Icon imports
 import {
   faFacebook,
